@@ -1,0 +1,6 @@
+[Ambari-2.4.2.0]
+name=Ambari-2.4.2.0
+baseurl=http://hdp.learningjournal.local/AMBARI-2.4.2.0/centos6/2.4.2.0-136
+gpgcheck=0
+enabled=1
+priority=1

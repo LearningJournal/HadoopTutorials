@@ -1,0 +1,14 @@
+[HDP-2.5.3.0]
+name=HDP-2.5.3.0
+baseurl=http://hdp.learningjournal.local/HDP/centos6
+gpgcheck=0
+enabled=1
+priority=1
+
+
+[HDP-UTILS-1.1.0.21]
+name=HDP-UTILS-1.1.0.21
+baseurl=http://hdp.learningjournal.local/HDP-UTILS-1.1.0.21/repos/centos6
+gpgcheck=0
+enabled=1
+priority=1
