@@ -16,7 +16,7 @@ chmod 600 ~/.ssh/authorized_keys
 ulimit -n 10000
 service ntpd start
 chkconfig ntpd on
-servive iptables stop
+service iptables stop
 chkconfig iptables off
 service ip6tables stop
 chkconfig ip6tables off
